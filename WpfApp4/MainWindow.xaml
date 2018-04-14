@@ -8,6 +8,7 @@
         Title="MainWindow" Height="450" Width="800">
     <Canvas Height="450" Width="800">
         <Button Content="Button" Width="75" HorizontalAlignment="Center" VerticalAlignment="Center" Canvas.Left="369" Canvas.Top="202"/>
+        <Button Content="Button" Canvas.Left="532" Canvas.Top="202" Width="75"/>
     </Canvas>
 
 </Window>
